@@ -38,34 +38,11 @@ if st.session_state.show_markdown:
         - 🌐 **Dynamic URL Construction**: Constructs and logs the URL used to retrieve data.
         - ❌ **Error Handling**: Informs the user if the data could not be retrieved.
 
-        ## 📸 Screenshots
-
-        Add relevant screenshots here to showcase the user interface.
-
         ## 🛠️ Technologies Used
 
         - ⚛️ **Streamlit**: For the web interface.
         - 🌐 **BeautifulSoup**: For parsing the HTML content.
         - 📝 **Requests**: For sending HTTP requests to Practo.
-
-        ## 📦 Installation
-
-        1. Clone the repository:
-            ```bash
-            git clone https://github.com/sharmachaitanya945/paidintern.git
-            ```
-        2. Navigate to the project directory:
-            ```bash
-            cd practo-doctor-scraper
-            ```
-        3. Install the required packages:
-            ```bash
-            pip install -r requirements.txt
-            ```
-        4. Run the Streamlit app:
-            ```bash
-            streamlit run app.py
-            ```
 
         ## 🚀 Usage
 
