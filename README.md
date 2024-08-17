@@ -35,7 +35,8 @@ Welcome to the Practo Doctor Scraper! This application allows you to scrape info
     ```
 2. Navigate to the project directory:
     ```bash
-    cd practo-doctor-scraper
+    cd paidintern-data-science
+    cd code
     ```
 3. Install the required packages:
     ```bash
