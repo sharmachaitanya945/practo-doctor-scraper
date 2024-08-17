@@ -28,7 +28,7 @@ Add relevant screenshots here to showcase the user interface.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sharmachaitanya945/paidintern.git
+    git clone https://github.com/sharmachaitanya945/paidintern-data-science.git
     ```
 2. Navigate to the project directory:
     ```bash
