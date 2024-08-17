@@ -16,7 +16,7 @@ Welcome to the Practo Doctor Scraper! This application allows you to scrape info
 
 ## 📸 Screenshots
 
-Add relevant screenshots here to showcase the user interface.
+![Screenshots](assets/screenshot.png)
 
 ## 🛠️ Technologies Used
 
