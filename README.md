@@ -18,6 +18,9 @@ Welcome to the Practo Doctor Scraper! This application allows you to scrape info
 
 ![Screenshots](assets/screenshot.png)
 
+## 📽️ Tutorial Video
+[![YouTube](https://i.ytimg.com/vi/-9tBHxAg1g8/hqdefault.jpg)](https://www.youtube.com/watch?v=vjH1UGa8CmA)
+
 ## 🛠️ Technologies Used
 
 - ⚛️ **Streamlit**: For the web interface.
