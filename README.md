@@ -1,4 +1,4 @@
-![paidintern](https://socialify.git.ci/sharmachaitanya945/paidintern/image?description=1&descriptionEditable=Python%20Web%20scraper&font=Rokkitt&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark)
+![practo-doctor-scraper](https://socialify.git.ci/sharmachaitanya945/practo-doctor-scraper/image?custom_description=This+application+allows+you+to+scrape+information+about+doctors+from+Practo+based+on+specialization%2C+locality%2C+and+city.+It+displays+the+total+number+of+doctors+available+for+the+selected+specialization+and+location.&description=1&language=1&name=1&owner=1&stargazers=1&theme=Dark)
 
 
 # 🩺 Practo Doctor Scraper
